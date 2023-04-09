@@ -104,7 +104,7 @@ If file Overwrites are needed for the expected behavior, the user will be asked 
 
 ## Contact
 
-Your Name - [Alexandre Hachey](https://www.linkedin.com/in/alexandre-hachey-095210254/) - alx99102@gmail.com
+[Alexandre Hachey](https://www.linkedin.com/in/alexandre-hachey-095210254/) - alx99102@gmail.com
 [![linkedin][linkedin-shield]][linkedin-url] 
 
 Project Link: [https://github.com/alx99102/File-Cleanup](https://github.com/alx99102/File-Cleanup/)
