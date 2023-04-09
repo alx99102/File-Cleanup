@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alx99\\OneDrive\\Desktop\\c#\\File Cleanup\\File Cleanup.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alx99\\OneDrive\\Desktop\\c#\\File Cleanup\\File Cleanup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alx99\\OneDrive\\Desktop\\c#\\File Cleanup\\File Cleanup.csproj",
+        "projectName": "File Cleanup",
+        "projectPath": "C:\\Users\\alx99\\OneDrive\\Desktop\\c#\\File Cleanup\\File Cleanup.csproj",
+        "packagesPath": "C:\\Users\\alx99\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alx99\\OneDrive\\Desktop\\c#\\File Cleanup\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alx99\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

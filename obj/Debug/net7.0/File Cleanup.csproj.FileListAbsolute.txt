@@ -1,0 +1,15 @@
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\bin\Debug\net7.0\File Cleanup.exe
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\bin\Debug\net7.0\File Cleanup.deps.json
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\bin\Debug\net7.0\File Cleanup.runtimeconfig.json
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\bin\Debug\net7.0\File Cleanup.dll
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\bin\Debug\net7.0\File Cleanup.pdb
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.csproj.AssemblyReference.cache
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.AssemblyInfoInputs.cache
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.AssemblyInfo.cs
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.csproj.CoreCompileInputs.cache
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.dll
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\refint\File Cleanup.dll
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.pdb
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\File Cleanup.genruntimeconfig.cache
+C:\Users\alx99\OneDrive\Desktop\c#\File Cleanup\obj\Debug\net7.0\ref\File Cleanup.dll
