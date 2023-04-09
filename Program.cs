@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Path to the directory to clean up
             string path = @"C:\Users\alx99\Downloads";
             Console.WriteLine("Commencing file cleanup for \"" + path+"\"");
 
@@ -22,7 +23,7 @@
                 // Get the name of the directory
                 string dirName = directory.Substring(directory.LastIndexOf('\\') + 1);
                 
-                // If the directory isn't a file type foldeer, move it to the .folders directory
+                // If the directory isn't a file type folder, move it to the .folders directory
                 if(!dirName.StartsWith(".")) {
                     Console.WriteLine("Moving directory \"" + directory + "\" to .folders directory");
                     try {
@@ -57,7 +58,7 @@
                 // Move the file to the file type folder
                 Console.WriteLine("Moving file \"" + file + "\" to \"" + fileTypeFolder + "\"");
                 try {
-                    File.Move(file, fileTypeFolder + @"\" + fileName);
+                    File.Move(file,fileTypeFolder + @"\" + fileName);
                 }
                 // If the file already exists, ask the user if they want to overwrite it
                 catch (IOException) {
@@ -73,10 +74,7 @@
                     Console.WriteLine("Error moving file \"" + file + "\" to \"" + fileTypeFolder + "\"");
                     Console.WriteLine(e);
                 }
-
-
             }
-            
         }
     }
 }
